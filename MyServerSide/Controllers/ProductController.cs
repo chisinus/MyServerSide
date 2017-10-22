@@ -74,6 +74,7 @@ namespace MyServerSide.Controllers
         {
             if (product == null) return BadRequest();
 
+            product.Id = context.Products.Max(p => p.Id) + 1; 
             context.Products.Add(product);
             context.SaveChanges();
 
