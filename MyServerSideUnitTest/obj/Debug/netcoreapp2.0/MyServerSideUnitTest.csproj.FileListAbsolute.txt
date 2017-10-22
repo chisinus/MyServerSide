@@ -1,0 +1,16 @@
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\MyServerSideUnitTest.deps.json
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\MyServerSideUnitTest.runtimeconfig.json
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\MyServerSideUnitTest.runtimeconfig.dev.json
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\MyServerSideUnitTest.dll
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\MyServerSideUnitTest.pdb
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\MyServerSide.dll
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\bin\Debug\netcoreapp2.0\MyServerSide.pdb
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\obj\Debug\netcoreapp2.0\MyServerSideUnitTest.csprojResolveAssemblyReference.cache
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\obj\Debug\netcoreapp2.0\MyServerSideUnitTest.csproj.CoreCompileInputs.cache
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\obj\Debug\netcoreapp2.0\MyServerSideUnitTest.AssemblyInfoInputs.cache
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\obj\Debug\netcoreapp2.0\MyServerSideUnitTest.AssemblyInfo.cs
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\obj\Debug\netcoreapp2.0\MyServerSideUnitTest.dll
+D:\Practice\Net_Angular2\MyServerSide\MyServerSideUnitTest\obj\Debug\netcoreapp2.0\MyServerSideUnitTest.pdb
