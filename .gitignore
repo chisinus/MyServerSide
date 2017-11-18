@@ -1,5 +1,6 @@
 *.suo
 *.user
+sh.exe.stackdump
 bin
 obj
 packages
